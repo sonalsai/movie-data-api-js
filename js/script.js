@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
       headers: {
         accept: "application/json",
         Authorization:
-          "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4NTZkYjU4YmVlMThkYjZhYWE1ODMzNGYxNjcyNDk3NSIsIm5iZiI6MTcyMTIwOTY2MC45NjE2MzIsInN1YiI6IjY2OTc5MThlN2ZjOWViNGZhMjY2ZGI4MCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.doznP4_cy1tXwTxD21gR8eflNnBefLiiawSKqgE0oas",
+          "Bearer API KEY",
       },
     };
 
